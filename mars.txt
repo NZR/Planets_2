@@ -1,6 +1,7 @@
 Cold and dry and very red.
 There are two moons
+edit
 
-This is cleaner
+This is a new important change
 
-This is the first step to my thesis
+Make changes based on this version
